@@ -1,6 +1,6 @@
 class SwapVariable {
     public static void main(String[] args) {
-        
+       // Swaping of 3 numbers without using a temporary variable  
         int A = 35;
         int B = 85;
         int C = 15;
